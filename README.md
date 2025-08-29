@@ -19,7 +19,29 @@ This project is part of my SQL learning journey (inspired by Namaste SQL Bootcam
 
 ## 📝 Sample Questions
 Some example tasks from the 18-question set:
-1- write a query to get total sales for each profit group. Profit groups are defined as  
+# 🗄️ 18 SQL Questions Using JOINs
+
+A collection of **18 SQL practice questions** focusing on mastering different types of `JOIN`s to combine and analyze relational datasets.  
+This project is part of my SQL learning journey (inspired by Namaste SQL Bootcamp by Ankit Bansal).
+
+---
+
+## 📚 Topics Covered
+- **INNER JOIN** – Matching records across tables.
+- **LEFT JOIN / RIGHT JOIN** – Preserving rows from one table.
+- **FULL OUTER JOIN** – Combining all rows, matching where possible.
+- **SELF JOIN** – Joining a table with itself.
+- **CROSS JOIN** – Cartesian products.
+- **Multiple JOINs** – Combining more than two tables.
+- **Aliasing & Filtering** – Clean query writing with `AS` and `WHERE`.
+- **Aggregation with JOINs** – `GROUP BY`, `HAVING` on multi-table results.
+
+---
+
+## 📝 Sample Questions
+Some example tasks from the 18-question set:
+
+1. write a query to get total sales for each profit group. Profit groups are defined as  
 profit < 0 -> Loss
 profit < 50 -> Low profit
 profit < 100 -> High profit
@@ -51,9 +73,13 @@ insert into exams values (1,'Chemistry',91),(1,'Physics',91),(1,'Maths',92)
 18- write a query to print 3 columns : category, total_sales and (total sales of returned orders)
 ---
 
+---
+
 ## 🛠️ Tech & Tools
-- **SQL Dialect**: MySQL  (generic SQL)
+- **SQL Dialect**: MySQL 
 - **Tables Used**: `customers`, `orders`, `employees`, `departments`, `products`, etc.
-- **Environment**: Practice in local DB
+
 
 ---
+
+## 📂 File Structure

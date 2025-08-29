@@ -1,4 +1,8 @@
-# Analytics-Bootcamp
+# Analytics-Bootcamp 
+# SQL for analytics
+
+Introduction to SQL, DDL/DML/DQL, filtering, sorting, aggregation, joins, window functions, CTEs, subqueries, stored procedures, indexing, views, recursive CTEs. Includes portfolio projects (e.g., credit card transactions, hotel bookings).
+
 # Top 18 SQL Questions Using JOINs
 A collection of **18 SQL practice questions** focusing on mastering different types of `JOIN`s to combine and analyze relational datasets.  
 This project is part of my SQL learning journey (inspired by Namaste SQL Bootcamp by Ankit Bansal).
